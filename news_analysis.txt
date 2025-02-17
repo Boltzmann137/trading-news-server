@@ -1,0 +1,5 @@
+AAPL: 0.9
+MSFT: 0.6
+GOOGL: -0.4
+AMZN: 0.1
+El mercado muestra señales alcistas.
